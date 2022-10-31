@@ -1,0 +1,4 @@
+- 👀 I’m interested in SQL server datawarehouse, datamart, Kimball SCD, ETL, visual studio VB .net
+- 📫 How to reach me gregnuthall@hotmail.com
+- 🌱 I’m currently learning machine learning neural network, Octave, Python
+- I have a background in Operations Research
